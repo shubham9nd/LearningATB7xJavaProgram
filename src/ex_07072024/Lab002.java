@@ -7,6 +7,5 @@ public class Lab002 {
     System.out.println("Hello Sachin!");
     System.out.println("Hello Neeru!");
     System.out.println("Hello Shaan!");
-    System.out.println("Hello Golu!");
 }
 }
