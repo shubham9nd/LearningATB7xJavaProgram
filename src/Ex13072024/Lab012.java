@@ -1,7 +1,5 @@
 package Ex13072024;
 
-import java.sql.SQLOutput;
-
 public class Lab012 {
     public static void main(String[] args) {
     boolean is_married = true;
